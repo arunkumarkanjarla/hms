@@ -1,0 +1,24 @@
+{
+ "pages": 118,
+ "errors": [],
+ "deadLinks": [],
+ "inert": [
+  "HMS_Static_Application\\hospital-management\\reports.html :: Print",
+  "HMS_Static_Application\\index.html :: System Administrator",
+  "HMS_Static_Application\\index.html :: Hospital Management",
+  "HMS_Static_Application\\index.html :: Front Desk & Registration",
+  "HMS_Static_Application\\index.html :: Doctor",
+  "HMS_Static_Application\\index.html :: Nurse",
+  "HMS_Static_Application\\index.html :: Emergency Team",
+  "HMS_Static_Application\\index.html :: Laboratory",
+  "HMS_Static_Application\\login.html :: System Administrator",
+  "HMS_Static_Application\\login.html :: Hospital Management",
+  "HMS_Static_Application\\login.html :: Front Desk & Registration",
+  "HMS_Static_Application\\login.html :: Doctor",
+  "HMS_Static_Application\\login.html :: Nurse",
+  "HMS_Static_Application\\login.html :: Emergency Team",
+  "HMS_Static_Application\\login.html :: Laboratory"
+ ],
+ "buttons": 448,
+ "ok": 118
+}

@@ -1,0 +1,146 @@
+[
+ [
+  "PASS",
+  "Mobile: patient login with mobile + OTP (auto-advance)"
+ ],
+ [
+  "PASS",
+  "Mobile: search suggestions"
+ ],
+ [
+  "PASS",
+  "Mobile: book in-clinic appointment, slot picker, pay via UPI, success + receipt"
+ ],
+ [
+  "PASS",
+  "Mobile: teleconsult booking without paying + video room"
+ ],
+ [
+  "PASS",
+  "Mobile: family member add + book for family"
+ ],
+ [
+  "PASS",
+  "Mobile: health records timeline + filters + report detail"
+ ],
+ [
+  "PASS",
+  "Mobile: prescription reminders + mark dose taken"
+ ],
+ [
+  "PASS",
+  "Mobile: notifications centre + dark mode + offline banner"
+ ],
+ [
+  "PASS",
+  "Mobile: new patient registration (new mobile -> OTP -> profile -> UHID)"
+ ],
+ [
+  "PASS",
+  "Front desk: OTP registration + walk-in token"
+ ],
+ [
+  "PASS",
+  "Doctor: call next -> consultation -> e-Rx + lab + imaging -> sign"
+ ],
+ [
+  "PASS",
+  "Lab: collect sample -> enter results -> verify"
+ ],
+ [
+  "PASS",
+  "Radiology: schedule -> report"
+ ],
+ [
+  "PASS",
+  "Pharmacy: dispense e-Rx -> collect payment"
+ ],
+ [
+  "PASS",
+  "Nurse: record vitals (NEWS) + give medication"
+ ],
+ [
+  "PASS",
+  "IPD: admit to available bed from bed board -> discharge -> final bill"
+ ],
+ [
+  "PASS",
+  "ER: quick registration + triage + disposition"
+ ],
+ [
+  "PASS",
+  "OT: checklist gate then start case"
+ ],
+ [
+  "PASS",
+  "Billing: claim workflow + receipt"
+ ],
+ [
+  "PASS",
+  "Inventory: approve purchase request -> PO -> GRN updates stock"
+ ],
+ [
+  "PASS",
+  "HR: approve leave + run payroll"
+ ],
+ [
+  "PASS",
+  "Access control: nurse blocked from pharmacy app; logged-out redirect"
+ ],
+ [
+  "PASS",
+  "Web app: login form -> dashboard renders with live data"
+ ],
+ [
+  "PASS",
+  "Web <-> mobile shared state: appointment booked on mobile visible to web front desk"
+ ],
+ [
+  "PASS",
+  "Admin web: Control Centre renders every section"
+ ],
+ [
+  "PASS",
+  "Admin web: add lab test via form -> orderable by doctor + priced"
+ ],
+ [
+  "PASS",
+  "Admin mobile: doctor fee change -> patient booking price"
+ ],
+ [
+  "PASS",
+  "Admin: disabled doctor not bookable; leave blocks slots"
+ ],
+ [
+  "PASS",
+  "Admin: bed tariff -> IPD bill"
+ ],
+ [
+  "PASS",
+  "Admin web: RBAC matrix removes permission -> menu hidden + access blocked"
+ ],
+ [
+  "PASS",
+  "Admin mobile: broadcast -> patient app banner"
+ ],
+ [
+  "PASS",
+  "Admin: feature flags (teleconsult, online booking) gate patient app"
+ ],
+ [
+  "PASS",
+  "Admin: maintenance mode blocks non-admin roles"
+ ],
+ [
+  "PASS",
+  "Admin: billing discount limit, booking window, token prefix"
+ ],
+ [
+  "PASS",
+  "Admin web: export / import config JSON"
+ ],
+ [
+  "PASS",
+  "Live update: config change in another tab re-renders patient app (storage event)"
+ ]
+]
